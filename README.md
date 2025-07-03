@@ -17,7 +17,7 @@
 <br>
 
 - Desenvolvedor BackEnd
-- Atualmente aprendendo Desenvolvimento de Sistemas(.NET) com integração com banco de dados e Desenvolvimento Web com Node.js
+- Atualmente aprendendo Desenvolvimento de Sistemas(C#/.NET) com integração com banco de dados e Desenvolvimento Web com Node.js
 - Cursando Análise e Desenvolvimento de Sistema na Faculdade de Tecnologia de Sorocaba(FATEC) Jan 2024 - Dec 2026
 
 <br><br>
